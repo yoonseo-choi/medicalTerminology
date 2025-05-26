@@ -2,7 +2,7 @@
 
 This repository aims to create a flash card app capable of storing custom user vocab cards and creating a knowledge assessment in the form of a multiple choice quiz.
 It was motivated by Quizlet's subscription plan for using the "quiz" feature, which I did not want to pay for. However, I felt the need to have this feature to 
-learn the terminology in the most effective way.
+learn the terminology in the most effective way and prepare for the medical scribe orientation exams.
 
 # File Structure
 
